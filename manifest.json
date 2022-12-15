@@ -1,6 +1,6 @@
 {
-    "name": "gopayz_web",
-    "short_name": "gopayz_web",
+    "name": "smallweb",
+    "short_name": "smallweb",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
